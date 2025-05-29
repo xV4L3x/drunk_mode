@@ -1,0 +1,9 @@
+Package: com.xvalex.drunkmode
+Name: DrunkMode
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate Tweak!
+Maintainer: xvalex
+Author: xvalex
+Section: Tweaks
